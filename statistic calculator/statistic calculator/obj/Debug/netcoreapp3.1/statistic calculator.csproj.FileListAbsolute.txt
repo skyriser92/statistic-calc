@@ -1,0 +1,13 @@
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\bin\Debug\netcoreapp3.1\statistic calculator.exe
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\obj\Debug\netcoreapp3.1\statistic calculator.csprojAssemblyReference.cache
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\obj\Debug\netcoreapp3.1\statistic calculator.AssemblyInfoInputs.cache
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\obj\Debug\netcoreapp3.1\statistic calculator.AssemblyInfo.cs
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\bin\Debug\netcoreapp3.1\statistic calculator.deps.json
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\bin\Debug\netcoreapp3.1\statistic calculator.runtimeconfig.json
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\bin\Debug\netcoreapp3.1\statistic calculator.runtimeconfig.dev.json
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\bin\Debug\netcoreapp3.1\statistic calculator.dll
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\bin\Debug\netcoreapp3.1\statistic calculator.pdb
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\obj\Debug\netcoreapp3.1\statistic calculator.csproj.CopyComplete
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\obj\Debug\netcoreapp3.1\statistic calculator.dll
+C:\Users\jcjc9\source\repos\statistic calculator\statistic calculator\obj\Debug\netcoreapp3.1\statistic calculator.pdb
